@@ -30,16 +30,16 @@ $ yarn start
 $ docker-compose up
 ```
 
-### Run it tests
-```bash
-$ yarn cypress open
-```
-
 
 ### Project local setup
 
 ```bash
 $ yarn
+```
+
+### Run it tests
+```bash
+$ yarn cypress open
 ```
 
 ### Compile and run the project local
